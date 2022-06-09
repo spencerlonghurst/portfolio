@@ -1,23 +1,68 @@
 .project_card {
   background-color: #112240;
-  width: 400px;
-  height: 400px;
+  width: 350px;
+  height: 300px;
   color: #ccd6f6;
-  border: 1px solid red;
+  /* border: 1px solid red; */
   display: flex;
   flex-direction: column;
   /* margin: 10px; */
   flex-wrap: wrap;
+  margin: 20px;
+  /* padding: -10px; */
+  justify-content: center;
+  align-items: center;
+}
+
+.project_insides {
+  width: 85%;
+  height: 85%;
+  border: 1px solid aqua;
+  display: flex;
+  flex-direction: column;
 }
 
 .links {
-  border: solid 1px green; 
+  /* border: solid 1px green;  */
+  /* width: 100%; */
+  display: flex;
   justify-content: flex-end;
-  width: 100%;
-  background-color: #112240;
-  /* padding: 3px; */
+}
+
+.link {
+  padding: 3px;
+  /* border: 1px solid gray; */
+  font-size: 30px !important;
+}
+
+.link_one {
+  display: flex;
+  margin-top: 1px;
+  justify-content: center;
+}
+
+.link_two {
+  font-size: 35px !important;
 }
 
 .title {
-  background-color: #112240;
+  /* border: 1px solid pink; */
+  margin-bottom: 1em;
+  margin-top: 1.5em;
+}
+
+.description {
+  /* border: 1px solid green; */
+  margin-bottom: 2em;
+  color: #8992b0;
+}
+
+.languages {
+  color: #727e9d;
+  border: 1px solid black;
+  font-size: 0.9em;
+  display: flex;
+  /* position: absolute; */
+  /* bottom: 0px; */
+  /* align-items: flex-end; */
 }
