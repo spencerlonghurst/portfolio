@@ -1,0 +1,6 @@
+#projects {
+  display: flex;
+  margin: 20px;
+  border: 1px solid yellow;
+  justify-content: center;
+}

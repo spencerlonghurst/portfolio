@@ -2,19 +2,21 @@ import React from 'react'
 import '../styling/Header.css'
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
+import Intro from './Intro';
+import About from './About';
 
 function Header() {
   return (
-    <div className='header'>
+    <div id='header'>
       <div className='icons'>
       <GitHubIcon className='icon'/>
       <LinkedInIcon className='icon'/>
       </div>
       <div className='header_options'>
-        <a className='header_options_a active'>About</a>
-        <a className='header_options_a'>Experience</a>
-        <a className='header_options_a'>Projects</a>
-        <a className='header_options_a'>Contact</a>
+        <a className='header_options_a active' href='#intro'>Home</a>
+        <a className='header_options_a' href='#about'>About</a>
+        <a className='header_options_a' href='#projects'>Projects</a>
+        <a className='header_options_a' href='#contact'>Contact</a>
       </div>
     </div>
   )

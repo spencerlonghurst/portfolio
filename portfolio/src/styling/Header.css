@@ -1,10 +1,11 @@
-.header {
+#header {
   display: flex;
   flex-direction: row;
   margin-top: 15px;
   /* border: solid 1px green; */
   /* justify-content: flex-end; */
   width: 100%;
+  /* position: fixed; */
 }
 
 .icons {
@@ -38,6 +39,7 @@
   margin: 15px;
   font-size: 1.2em;
   /* border: solid 1px purple; */
+  text-decoration: none;
 }
 
 .header_options_a.active {

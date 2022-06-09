@@ -3,7 +3,7 @@ import '../styling/Intro.css'
 
 function Intro() {
   return (
-    <div className='intro'>
+    <div id='intro'>
       <div className='hello'>Hello, I am</div>
       <div className='name'>
         <div className='first_name'>
