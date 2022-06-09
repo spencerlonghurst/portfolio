@@ -2,8 +2,6 @@ import React from 'react'
 import '../styling/Header.css'
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
-import Intro from './Intro';
-import About from './About';
 
 function Header() {
   return (
