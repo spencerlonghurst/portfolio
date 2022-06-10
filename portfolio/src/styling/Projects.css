@@ -1,9 +1,10 @@
 #projects {
-  /* border: 1px solid yellow; */
+  border: 1px solid yellow;
   padding-top: 8em;
   margin-left: 15%;
   margin-right: 15%;
   font-size: 1.2em;
+  margin-bottom: 5em;
 }
 
 .project_header {
