@@ -31,9 +31,13 @@
 }
 
 .link {
+  cursor: pointer;
   padding: 3px;
   /* border: 1px solid gray; */
   font-size: 30px !important;
+}
+.link:hover {
+  color: #48b9a6;
 }
 
 .link_one {

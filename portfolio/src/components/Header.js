@@ -7,8 +7,8 @@ function Header() {
   return (
     <div id='header'>
       <div className='icons'>
-      <GitHubIcon className='icon'/>
-      <LinkedInIcon className='icon'/>
+      <GitHubIcon className='icon' onClick={() => window.open('https://github.com/spencerlonghurst', "_blank")}/>
+      <LinkedInIcon className='icon' onClick={() => window.open('https://www.linkedin.com/in/spencer-longhurst/', "_blank")}/>
       </div>
       <div className='header_options'>
         <a className='header_options_a active' href='#intro'>Home</a>
