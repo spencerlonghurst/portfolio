@@ -1,5 +1,5 @@
 #projects {
-  border: 1px solid yellow;
+  /* border: 1px solid yellow; */
   padding-top: 8em;
   margin-left: 15%;
   margin-right: 15%;
@@ -15,7 +15,7 @@
 .project_cards {
   display: flex;
   /* margin: 20px; */
-  border: 1px solid purple;
+  /* border: 1px solid purple; */
   justify-content: center;
   flex-wrap: wrap;
 }

@@ -12,12 +12,13 @@
   /* padding: -10px; */
   justify-content: center;
   align-items: center;
+  position: relative;
 }
 
 .project_insides {
   width: 85%;
   height: 85%;
-  border: 1px solid aqua;
+  /* border: 1px solid aqua; */
   display: flex;
   flex-direction: column;
 }
@@ -59,10 +60,11 @@
 
 .languages {
   color: #727e9d;
-  border: 1px solid black;
+  /* border: 1px solid black; */
   font-size: 0.9em;
   display: flex;
-  /* position: absolute; */
-  /* bottom: 0px; */
+  position: absolute;
+  bottom: 0;
+  padding-bottom: 20px;
   /* align-items: flex-end; */
 }
