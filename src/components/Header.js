@@ -1,9 +1,10 @@
-import React from 'react'
+import React, { useState } from 'react'
 import '../styling/Header.css'
 import GitHubIcon from '@mui/icons-material/GitHub';
 import LinkedInIcon from '@mui/icons-material/LinkedIn';
 
 function Header() {
+  
   return (
     <div id='header'>
       <div className='icons'>

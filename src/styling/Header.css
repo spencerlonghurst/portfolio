@@ -50,6 +50,7 @@
   font-size: 1.2em;
   /* border: solid 1px purple; */
   text-decoration: none;
+  border: 2px solid #48b9a6;
 }
 
 .header_options_a.active {
