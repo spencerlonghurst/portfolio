@@ -9,28 +9,28 @@ function Projects() {
       <div className='project_cards'>
         <ProjectCard 
           title={'Amazon Clone'}
-          description={'a front end and back end of Amazon'}
-          languages={'React Node Express, Firebase'}
+          description={'Created a front end and back end clone of Amazon.com. Developed full functionality of login, cart creation and Stripe payments. Used Firebase for authentication of login and registration of new users'}
+          languages={'React.js Node.js Express.js Firebase'}
           github={'https://github.com/spencerlonghurst/amazon_clone'}
           website='https://clone-6c11d.web.app/'
         />
         <ProjectCard
           title={'Youtube Clone'}
-          description={'a front end of Youtube'}
-          languages={'React Node Express, Firebase'}
+          description={'Using React.js and CSS, created a front end copy of Youtube’s homepage and a search bar. Deployed the project through Firebase'}
+          languages={'React.js Node.js Express.js Firebase'}
           github={'https://github.com/spencerlonghurst/youtube_clone'}
           website='https://clone-bc4cd.web.app/'
         />
         <ProjectCard
           title={'Wheel and Quiz State'}
-          description={'A bi-directional interactive wheel, a customizable quiz and a form to create new quizzes'}
+          description={'Utilized Redux.js to create Action Creators to pass state around the redux store. With React.js, built a bi-directional interactive wheel, a customizable quiz and a form to create new quizzes'}
           languages={'React Redux Axios'}
           github={'https://github.com/spencerlonghurst/web-sprint-challenge-advanced-state'}
           website='https://wheel-and-quiz.herokuapp.com/'
         />
         <ProjectCard
         title={'NASA photo of the day'}
-        description={'a front end and back end of Amazon'}
+        description={'Used Axios and React.js state to use the NASA API to create a webpage displaying the Astronomy Photo of the Day. Implemented styled components for my CSS styling'}
           languages={'React Node Express'}
           github={'https://github.com/spencerlonghurst/nasa-photo-of-the-day'}
           website='https://nasa-photo-of-the-day-fawn.vercel.app/'
