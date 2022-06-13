@@ -9,6 +9,7 @@
   top: 0;
   background-color: #091a2f;
   opacity: 0.9;
+  z-index: 1;
 }
 
 .icons {

@@ -46,4 +46,6 @@
 
 .my_image {
   border-radius: 5px;
+  height: auto;
+  width: auto;
 }
