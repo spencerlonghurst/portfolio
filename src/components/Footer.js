@@ -3,8 +3,8 @@ import '../styling/Footer.css'
 
 function Footer() {
   return (
-    <div className='footer'>
-      <p>Developed by Spencer Longhurst - 2022</p>
+    <div>
+      <p className='footer'>Developed by Spencer Longhurst - 2022</p>
     </div>
   )
 }

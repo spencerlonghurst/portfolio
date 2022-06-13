@@ -5,15 +5,24 @@
   margin-right: 15%;
   font-size: 1.2em;
   color: #8992b0;
-  margin-bottom: 13.5em;
+  /* margin-bottom: 13.5em; */
   margin-top: 15em;
+}
+
+.sub_contact {
+  /* border: 1px solid green; */
+  margin-bottom: 3em;
 }
 
 .contact_header {
   color: #ccd6f6;
-  padding-left: 3%;
+  /* padding-left: 3%; */
   margin-bottom: 4%;
-  padding-bottom: 5.5em;
+  margin-bottom: 3em; 
+  text-align: center;
+  font-size: 2em;
+  padding-top: 1em;
+  /* border: 1px solid gray; */
 }
 
 .contact_p_one {
@@ -35,6 +44,8 @@
   flex-direction: column;
   align-items: center;
   margin-top: 3em;
+  /* border: 1px solid red; */
+  margin-bottom: 4em;
 }
 
 .email {
@@ -55,4 +66,11 @@
 
 .contact_icon:hover {
   color: #48b9a6;
+}
+
+.footer {
+  display: flex;
+  justify-content:  center;
+  margin-bottom: 1em;
+  color: #727e9d;
 }
