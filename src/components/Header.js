@@ -12,7 +12,7 @@ function Header() {
       <LinkedInIcon className='icon' onClick={() => window.open('https://www.linkedin.com/in/spencer-longhurst/', "_blank")}/>
       </div>
       <div className='header_options'>
-        <a className='header_options_a active' href='#intro'>Home</a>
+        <a className='header_options_a' href='#intro'>Home</a>
         <a className='header_options_a' href='#about'>About</a>
         <a className='header_options_a' href='#projects'>Projects</a>
         <a className='header_options_a' href='#contact'>Contact</a>

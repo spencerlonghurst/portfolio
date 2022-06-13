@@ -54,6 +54,7 @@
   border: 2px solid #48b9a6;
 }
 
-.header_options_a.active {
-  border: 2px solid #48b9a6;
+.header_options_a:hover {
+  border: 2px solid #ccd6f6;
+  color: #ccd6f6;
 }
