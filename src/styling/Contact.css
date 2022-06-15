@@ -58,6 +58,11 @@
   padding: 8px;
 }
 
+.email:hover {
+  border: 2px solid #ccd6f6;
+  color: #ccd6f6;
+}
+
 .contact_icon {
   margin-top: 0.5em;
   font-size: 60px !important;

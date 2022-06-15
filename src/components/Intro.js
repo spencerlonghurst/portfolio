@@ -4,7 +4,7 @@ import '../styling/Intro.css'
 function Intro() {
   return (
     <div id='intro'>
-      <div className='hello'>Hello, I am</div>
+      <div className='hello'>Hello, my name is:</div>
       <div className='name'>
         <div className='first_name'>
           <p className='letter'>S</p>
