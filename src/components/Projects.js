@@ -29,11 +29,18 @@ function Projects() {
           website='https://wheel-and-quiz.herokuapp.com/'
         />
         <ProjectCard
-        title={'NASA photo of the day'}
-        description={'Used Axios and React.js state to use the NASA API to create a webpage displaying the Astronomy Photo of the Day. Implemented styled components for my CSS styling'}
+          title={'NASA photo of the day'}
+          description={'Used Axios and React.js state to use the NASA API to create a webpage displaying the Astronomy Photo of the Day. Implemented styled components for my CSS styling'}
           languages={'React Node Express'}
           github={'https://github.com/spencerlonghurst/nasa-photo-of-the-day'}
           website='https://nasa-photo-of-the-day-fawn.vercel.app/'
+        />
+        <ProjectCard
+          title={'LinkedIn Clone (-In Progress-)'}
+          description={'Utilized React.js, CSS and Material UI to create a front end clone of LinkedIn. I want a dark and light mode toggle to be available in the nav bar, so I will be building that alongside the rest of the website'}
+          languages={'React CSS Vercel'}
+          github={'https://github.com/spencerlonghurst/linkedin-clone'}
+          website='https://linkedin-clone-spencerlonghurst.vercel.app/'
         />
       </div>
     </div>
