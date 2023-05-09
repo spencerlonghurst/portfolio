@@ -28,8 +28,8 @@ function Intro() {
           <p className='letter'>.</p>
         </div>
       </div>
-      <p className='subheading'>Frontend developer.</p>
-      <p className='info'>I specialize in React.js and CSS.</p>
+      <p className='subheading'>Mobile developer.</p>
+      <p className='info'>I build mobile apps using Swift</p>
       <a className='resume' href='https://docs.google.com/document/d/1xyJEkF_-0z2FoL0JNzj4nq3SmgLd7NRyMPUJdYMxw_I/export?format=pdf'>Resumé</a>
     </div>
   )

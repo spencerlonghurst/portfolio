@@ -7,6 +7,13 @@ function Projects() {
     <div id='projects'>
       <h2 className='project_header'>Projects</h2>
       <div className='project_cards'>
+      <ProjectCard 
+          title={'Hoselines'}
+          description={'Firefighters need to calculate accurate numbers when pumping water from the truck to the end of the firehose. This mobile app helps them to calculate accurate numbers within a smooth app'}
+          languages={'Swift'}
+          github={'https://github.com/spencerlonghurst/hoselines'}
+          website=''
+        />
         <ProjectCard 
           title={'Amazon Clone'}
           description={'Created a front end and back end clone of Amazon.com. Developed full functionality of login, cart creation and Stripe payments. Used Firebase for authentication of login and registration of new users'}
