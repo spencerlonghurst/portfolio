@@ -12,7 +12,7 @@ function Projects() {
           description={'Firefighters need to calculate accurate numbers when pumping water from the truck to the end of the firehose. This mobile app helps them to calculate accurate numbers within a smooth app'}
           languages={'Swift'}
           github={'https://github.com/spencerlonghurst/hoselines'}
-          website=''
+          website='https://apps.apple.com/us/app/hoselines/id6448963580'
         />
         <ProjectCard 
           title={'Amazon Clone'}
