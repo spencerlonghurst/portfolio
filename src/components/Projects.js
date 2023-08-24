@@ -8,6 +8,13 @@ function Projects() {
       <h2 className='project_header'>Projects</h2>
       <div className='project_cards'>
       <ProjectCard 
+          title={"Madelyn's Portfolio"}
+          description={'A good friend of mine requested a personal portflio to showcase her incredible marketing skills.'}
+          languages={'React'}
+          github={'https://github.com/spencerlonghurst/MadelynPortfolio'}
+          website='https://madelyn-anderson-portfolio.vercel.app/'
+        />
+      <ProjectCard 
           title={'Hoselines'}
           description={'Firefighters need to calculate accurate numbers when pumping water from the truck to the end of the firehose. This mobile app helps them to calculate accurate numbers within a smooth app'}
           languages={'Swift'}

@@ -7,7 +7,7 @@ function About() {
       <h2 className='about_header'>About Me</h2>
       <div className='about_content'>
       <span>
-        <p className='my_description'>Howdy! My name is Spencer and I am from the great state of Wyoming! I have worked on a mixture of both Web and Mobile applications, but my passion is in Mobile Developement.</p>
+        <p className='my_description'>Howdy! My name is Spencer and I am from the great state of Wyoming! I have over a year in Web Development and have spent some time learning about Mobile Development.</p>
 
         <p className='my_details'>I am a car enthusiast, enjoy weight lifting, and love ripping around on a dirtbike.</p>
 
@@ -15,14 +15,14 @@ function About() {
           <p className='my_languages'>Here are some languages I have worked with:</p>
           <div className='all_languages'>
             <div className='languages_first'>
-              <p>• Swift</p>
+              <p>• JavaScript</p>
               <p>• React.js</p>
               <p>• SQL</p>
             </div>
             <div className='languages_second'>
-              <p>• Javascript</p>
-              <p>• CSS</p>
               <p>• HTML</p>
+              <p>• CSS</p>
+              <p>• Swift</p>
             </div>
           </div>
         </div>
