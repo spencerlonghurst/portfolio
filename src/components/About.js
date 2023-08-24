@@ -7,7 +7,7 @@ function About() {
       <h2 className='about_header'>About Me</h2>
       <div className='about_content'>
       <span>
-        <p className='my_description'>Howdy! My name is Spencer and I am from the great state of Wyoming! I have over a year in Web Development and have spent some time learning about Mobile Development.</p>
+        <p className='my_description'>Howdy! My name is Spencer and I am from the great state of Wyoming! I have over a year of experience in Web Development and have spent some time learning about Mobile Development.</p>
 
         <p className='my_details'>I am a car enthusiast, enjoy weight lifting, and love ripping around on a dirtbike.</p>
 
