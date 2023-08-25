@@ -7,7 +7,7 @@ function Contact() {
     <div id='contact'>
       <div className='sub_contact'>
         <h2 className='contact_header'>Contact Me</h2>
-        <p className='contact_p_one'>I am currently employed but I am always open to hear about new opportunities. I can be reached on either LinkedIn or by Email. Feel free to reach out if you would like to discuss any open roles you may know about or if you would like to connect!</p>
+        <p className='contact_p_one'>I am open to growing my network and would love to connect! You can reach me on either LinkedIn or by Email.</p>
         <div className='contact_cta'>
           <a className='email' href='mailto:spencersean12@gmail.com'>spencersean12@gmail.com</a>
           <LinkedInIcon className='contact_icon' onClick={() => window.open('https://www.linkedin.com/in/spencer-longhurst/', "_blank")}/>

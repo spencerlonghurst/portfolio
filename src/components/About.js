@@ -9,7 +9,7 @@ function About() {
       <span>
         <p className='my_description'>Howdy! My name is Spencer and I am from the great state of Wyoming! I have over a year of experience in Web Development and have spent some time learning about Mobile Development.</p>
 
-        <p className='my_details'>I am a car enthusiast, enjoy weight lifting, and love ripping around on a dirtbike.</p>
+        <p className='my_details'>I'm a highly adaptable individual and I thrive in team-oriented settings. I have a strong growth mindset. I demonstrate an unwavering determination to solve complex problems. My exceptional work ethic consistently drives me to excel in all endeavors.</p>
 
         <div className='all_my_languages'>
           <p className='my_languages'>Here are some languages I have worked with:</p>
