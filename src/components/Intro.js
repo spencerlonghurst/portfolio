@@ -1,4 +1,3 @@
-import React from 'react'
 import '../styling/Intro.css'
 
 function Intro() {
@@ -29,8 +28,7 @@ function Intro() {
         </div>
       </div>
       <p className='subheading'>Web developer.</p>
-      <p className='info'>I build websites using JavaScript.</p>
-      <a className='resume' href='https://docs.google.com/document/d/1xyJEkF_-0z2FoL0JNzj4nq3SmgLd7NRyMPUJdYMxw_I/export?format=pdf'>Resumé</a>
+      <a className='resume' href='https://docs.google.com/document/d/1UcMHfPt-DsV7Cu1aFYYJmXpvcqqoTEGHouXOrLuRAeo/export?format=pdf'>Resumé</a>
     </div>
   )
 }

@@ -6,28 +6,33 @@ function About() {
     <div id='about'>
       <h2 className='about_header'>About Me</h2>
       <div className='about_content'>
-      <span>
-        <p className='my_description'>Howdy! My name is Spencer and I am from the great state of Wyoming! I have over a year of experience in Web Development and have spent some time learning about Mobile Development.</p>
+        <span>
+          <p className='my_description'>Howdy! My name is Spencer and I am from the great state of Wyoming! I have over three years of experience in Web Development and have spent some time learning about Mobile Development.</p>
 
-        <p className='my_details'>I'm a highly adaptable individual and I thrive in team-oriented settings. I have a strong growth mindset. I demonstrate an unwavering determination to solve complex problems. My exceptional work ethic consistently drives me to excel in all endeavors.</p>
+          <p className='my_details'>I'm a highly adaptable individual and I thrive in team-oriented settings. I have a strong growth mindset. I demonstrate an unwavering determination to solve complex problems. My exceptional work ethic consistently drives me to excel in all endeavors.</p>
 
-        <div className='all_my_languages'>
-          <p className='my_languages'>Here are some languages I have worked with:</p>
-          <div className='all_languages'>
-            <div className='languages_first'>
-              <p>• JavaScript</p>
-              <p>• React.js</p>
-              <p>• SQL</p>
-            </div>
-            <div className='languages_second'>
-              <p>• HTML</p>
-              <p>• CSS</p>
-              <p>• Swift</p>
+          <div className='all_my_languages'>
+            <p className='my_languages'>Here are some tools andlanguages I have worked with:</p>
+            <div className='all_languages'>
+              <div className='languages_first'>
+                <p>• JavaScript</p>
+                <p>• TypeScript</p>
+                <p>• React</p>
+              </div>
+              <div className='languages_second'>
+                <p>• HTML</p>
+                <p>• CSS</p>
+                <p>• Tailwind</p>
+              </div>
+              <div className='languages_third'>
+                <p>• Figma</p>
+                <p>• SQL</p>
+                <p>• Azure</p>
+              </div>
             </div>
           </div>
-        </div>
-      </span>
-      <img className='my_image' src='https://avatars.githubusercontent.com/u/94577635?v=4' alt='Spencer'/>
+        </span>
+        <img className='my_image' src='https://avatars.githubusercontent.com/u/94577635?v=4' alt='Spencer' />
       </div>
 
     </div>
